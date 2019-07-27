@@ -5,7 +5,86 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>6FFB359F-0488-493E-BA64-63F12E2EDEBD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.target</string>
+			<key>fileName</key>
+			<string>6FFB359F-0488-493E-BA64-63F12E2EDEBD.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>NYTimesTests-fjidjaqdprupbegvkaakcfwaaxqq</string>
+			<key>timeStartedRecording</key>
+			<real>585934737.85465598</real>
+			<key>timeStoppedRecording</key>
+			<real>585934738.10004103</real>
+			<key>title</key>
+			<string>Build target NYTimesTests</string>
+			<key>uniqueIdentifier</key>
+			<string>6FFB359F-0488-493E-BA64-63F12E2EDEBD</string>
+		</dict>
+		<key>7ADD7D9E-2D8C-4891-A632-EE970BEDCE4A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>7ADD7D9E-2D8C-4891-A632-EE970BEDCE4A.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>NYTimes-fjidjaqdprupbegvkaakcfwaaxqq</string>
+			<key>timeStartedRecording</key>
+			<real>585934737.56630301</real>
+			<key>timeStoppedRecording</key>
+			<real>585934737.84800601</real>
+			<key>title</key>
+			<string>Build target NYTimes</string>
+			<key>uniqueIdentifier</key>
+			<string>7ADD7D9E-2D8C-4891-A632-EE970BEDCE4A</string>
+		</dict>
+		<key>C5CD4571-FC69-497A-B3A2-314187A0A189</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.target</string>
+			<key>fileName</key>
+			<string>C5CD4571-FC69-497A-B3A2-314187A0A189.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>NYTimesUITests-fjidjaqdprupbegvkaakcfwaaxqq</string>
+			<key>timeStartedRecording</key>
+			<real>585934143.85135603</real>
+			<key>timeStoppedRecording</key>
+			<real>585934144.81692004</real>
+			<key>title</key>
+			<string>Build target NYTimesUITests</string>
+			<key>uniqueIdentifier</key>
+			<string>C5CD4571-FC69-497A-B3A2-314187A0A189</string>
+		</dict>
+	</dict>
 	<key>preserveOldLogs</key>
 	<true/>
 </dict>

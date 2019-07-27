@@ -16,6 +16,13 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        
+        let navController = window!.rootViewController as! UINavigationController
+        navController.navigationBar.titleTextAttributes = [NSAttributedString.Key.font: UIFont(name: "AvenirNext-DemiBold", size: 17)!,NSAttributedString.Key.foregroundColor:UIColor.white]
+        navController.navigationBar.dropShadow(color: .darkGray, opacity: 0.5, offSet: CGSize(width: 0, height: 5.0), radius: 2, scale: false)
+        
+
+        
         return true
     }
 
